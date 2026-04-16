@@ -1,4 +1,4 @@
-# AgriSync — Smart Farming Assistant
+# AgriSync — Integrated Farming Solution for Modern Agriculture
 
 AgriSync is a comprehensive, multilingual (Tamil + English) AI-powered smart farming web application. It is designed to assist farmers by providing intelligent insights and personalized recommendations.
 
